@@ -1,0 +1,2 @@
+# zabbix
+ZABBIX SNMP TEMPLATES
